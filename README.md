@@ -24,7 +24,7 @@ This project was inspired by the video tutorial available on YouTube, which demo
 2. Open the Vrinda_SuperStore_Annual_Dashboard.xlsx to explore the dashboard.
 3. For deeper analysis, use Vrinda_Store_Analysis_Data.xlsx as a base for custom visualizations or analysis.
 
-###Key Insights
+### Key Insights
 1. Identified top-performing categories and products to target for promotions.
 2. Seasonal trends indicate peak sales periods to focus marketing campaigns.
 3. Customer demographics help tailor personalized offers to increase retention.
